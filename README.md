@@ -1,1 +1,1 @@
-Titanic Survival Prediction
+Titanic Survival Prediction- Trained Under Logistic Regression
